@@ -1,4 +1,4 @@
 there's one change. and now two. and there
-this is a fake SSN 777-22-2345
+fake SSN 777-22-2345
 ...
 ssn
